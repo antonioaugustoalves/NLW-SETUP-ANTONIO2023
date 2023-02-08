@@ -1,0 +1,11 @@
+.habit {
+    width: 40px;
+    height: 40px;
+    border: 2px solid purple;
+    border-radius: 8px;
+    background-color: purple;
+    margin: 8px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
